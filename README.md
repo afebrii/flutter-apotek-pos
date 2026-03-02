@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="screenshot.png" alt="Apotek POS Screenshot" width="400"/>
 
   <h1>💊 Apotek POS - Flutter App</h1>
   <p><em>Aplikasi Point of Sale (POS) untuk Apotek berbasis Flutter dengan dukungan responsive layout untuk tablet dan smartphone.</em></p>
